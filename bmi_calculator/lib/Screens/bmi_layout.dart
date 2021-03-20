@@ -1,7 +1,7 @@
-import 'package:bmi_calculator/Screens/result_page.dart';
-import 'package:bmi_calculator/bmi_calculations.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:bmi_calculator/bmi_calculations.dart';
+import 'package:bmi_calculator/Screens/result_page.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import '../Components/reused_card_box.dart';
 import '../Components/box_content.dart';
