@@ -23,3 +23,13 @@ samples, guidance on mobile development, and a full API reference.
 - generate your API key by siging up in Open Weather.
 - replace your API key in lib/services/weather.dart file on line 4.
 - that's all you ready to run the application.
+
+
+## Clone and run steps
+
+- clone repo to your local system
+- open using andriod studio (make sure flutter is installed)
+- you need [Open weather](https://openweathermap.org/api) API key to run app.
+- generate your API key by siging up in Open Weather.
+- replace your API key in lib/services/weather.dart file on line 4.
+- that's all you ready to run the application.
